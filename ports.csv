@@ -1,0 +1,3 @@
+HTTP:Block:tcp:80
+HTTPS:Block:tcp:443
+HTTP,HTTPS:Block:udp:53
